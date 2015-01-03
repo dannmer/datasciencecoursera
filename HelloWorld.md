@@ -1,3 +1,3 @@
 ## This is a markdown file
 
-R^2
+R^2^
